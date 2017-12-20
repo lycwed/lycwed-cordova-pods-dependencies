@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    id="lycwed-cordova-pods-dependencies"
+    version="1.0.0">
+
+    <name>Cordova pods dependencies</name>
+    <description>Add pods for cordova app</description>
+    <author>Yves Lechevalier</author>
+    <keywords>pods</keywords>
+    <license>MIT</license>
+
+    <platform name="ios">
+        <pods-config ios-min-version="9.0" use-frameworks="true" />
+        <pod id="OneSignal" version="2.5.4" />
+    </platform>
+    
+    <dependency id="cordova-plugin-cocoapod-support"/>
+</plugin>
