@@ -1,7 +1,7 @@
 {
     "name": "lycwed-cordova-pods-dependencies",
-    "version": "1.0.0",
-    "description": "Add pods for cordova app",
+    "version": "1.0.1",
+    "description": "Add onesignal pod for cordova ios",
     "cordova": {
         "id": "lycwed-cordova-pods-dependencies",
         "platforms": [
