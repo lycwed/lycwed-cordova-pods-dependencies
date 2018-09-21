@@ -1,31 +1,31 @@
 {
-    "name": "lycwed-cordova-pods-dependencies",
-    "version": "1.0.2",
-    "description": "Add onesignal pod for cordova ios",
-    "cordova": {
-        "id": "lycwed-cordova-pods-dependencies",
-        "platforms": [
-            "ios"
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/lycwed/lycwed-cordova-pods-dependencies.git"
-    },
-    "keywords": [
-        "ecosystem:cordova",
-        "cordova-ios",
-        "cordova",
-        "plugin",
-        "pods"
-    ],
-    "author": {
-        "name": "Yves Lechevalier",
-        "url": "https://github.com/lycwed"
-    },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/lycwed/lycwed-cordova-pods-dependencies/issues"
-    },
-    "homepage": "https://github.com/lycwed/lycwed-cordova-pods-dependencies"
+  "name": "lycwed-cordova-pods-dependencies",
+  "version": "1.0.3",
+  "description": "Add onesignal pod for cordova ios",
+  "cordova": {
+    "id": "lycwed-cordova-pods-dependencies",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lycwed/lycwed-cordova-pods-dependencies.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova",
+    "plugin",
+    "pods"
+  ],
+  "author": {
+    "name": "Yves Lechevalier",
+    "url": "https://github.com/lycwed"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lycwed/lycwed-cordova-pods-dependencies/issues"
+  },
+  "homepage": "https://github.com/lycwed/lycwed-cordova-pods-dependencies"
 }

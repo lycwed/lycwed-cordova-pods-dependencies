@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<plugin id="lycwed-cordova-pods-dependencies" version="1.0.2"
-    xmlns="http://apache.org/cordova/ns/plugins/1.0"
+<plugin id="lycwed-cordova-pods-dependencies" version="1.0.3" 
+    xmlns="http://apache.org/cordova/ns/plugins/1.0" 
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <name>lycwed-cordova-pods-dependencies</name>
@@ -9,7 +9,7 @@
 
     <platform name="ios">
         <pods-config ios-min-version="9.0" use-frameworks="true" />
-        <pod id="OneSignal" version="2.5.4" />
+        <pod id="OneSignal" version="2.8.8" />
     </platform>
 
     <dependency id="cordova-plugin-cocoapod-support"/>
